@@ -106,6 +106,9 @@
   .src-components-text {
 
   }
+  table {
+    border-collapse: collapse;
+  }
   th {
     border: 1px solid black
   }
